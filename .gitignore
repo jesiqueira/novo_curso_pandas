@@ -1,5 +1,6 @@
 data/so_survey_2019.pdf
 data/survey_results*
+ETH_1h.csv
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
